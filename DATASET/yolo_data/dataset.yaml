@@ -1,0 +1,7 @@
+
+path: yolo_data
+train: train/images
+val: validation/images
+test: test/images
+nc: 2
+names: ['normal', 'abnormal']
